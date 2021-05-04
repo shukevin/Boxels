@@ -1,5 +1,5 @@
 ﻿# Boxels
- - Render Voxels using WebGL and coordinates within the "test.txt"
+ - Render Voxels using WebGL and coordinates within the "public/test.txt"
  - Implementaion uses npm webpack module to run alonside Node.js *supporting code not included due to size
    - To install Node.js see https://nodejs.org/en/
    - To install webpack module enter the following on the command line terminal
