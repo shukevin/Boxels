@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+#canvas {
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#inputText {
+  position: relative;
+  margin: 1vh 0 0 1vw;
+}
+
